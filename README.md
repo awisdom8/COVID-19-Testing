@@ -11,7 +11,7 @@ As a full disclaimer, I'm just an unaffiliated individual, not representing anyo
 
 Stay safe everyone!
 
-Easy shareable link is: bit.ly/covid_testing_sites
+Easy shareable [link](bit.ly/covid_testing_sites) is: bit.ly/covid_testing_sites
 
 ---
 
