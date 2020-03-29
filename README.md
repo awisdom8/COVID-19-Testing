@@ -7,7 +7,11 @@ This is a list of COVID-19 Testing Centers in California.
 
 This list is rapidly evolving. If it needs to be changed/updated, please update by sending a [pull request](https://github.com/awisdom8/COVID-19-Testing/pulls), opening an [Issue](https://github.com/awisdom8/COVID-19-Testing/issues) or [emailing](akhwisdom@gmail.com).
 
-As a full disclaimer, I'm just an unaffiliated individual, not representing anyone, trying to do my part to help collate helpful information for people to use during these turbulent times. All of the information collected here about testing centers includes the news source or website with more information. Many testing centers/programs require you to complete an assessment and get a referral before going. Check with the specific center/program for more information.
+---
+**Disclaimer** 
+* As a full disclaimer, I'm just an unaffiliated individual, not representing anyone, trying to do my part to help collate helpful information for people to use during these turbulent times.
+* All of the information collected here about testing centers includes the news source or website with more information. 
+* Many testing centers/programs require you to complete an assessment and get a referral before going. Check with the specific center/program for more information.
 
 Stay safe everyone!
 
