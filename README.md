@@ -32,13 +32,23 @@ Center/Program Name    | Location(s)      |  Source
 [Sutter Health](https://www.sutterhealth.org/for-patients/health-alerts/2019-novel-coronavirus) | Check with health care provider for more information | [Sutter Health](https://www.sutterhealth.org/for-patients/health-alerts/2019-novel-coronavirus)
 [One Medical](https://www.onemedical.com/blog/live-well/what-you-should-know-about-coronavirus) | Check with health care provider for more information | [One Medical](https://www.onemedical.com/blog/live-well/what-you-should-know-about-coronavirus)
 [Hayward Fire Station 7](https://www.sfchronicle.com/health/article/Where-can-I-get-a-coronavirus-test-in-the-Bay-15136054.php) | 28270 Huntwood Avenue, 510-293-8617 | [SF Chronicle](https://www.sfchronicle.com/health/article/Where-can-I-get-a-coronavirus-test-in-the-Bay-15136054.php)
+[California Department of Public Health's Laboratory](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx) | Richmond, Alameda, Contra Costa, Humboldt, Napa-Solano-Yolo-Marin (located in Solano), Sacramento, San Francisco, San Mateo, Santa Clara, Shasta, and Sonoma | [California Department of Public Health's Laboratory](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx)
 
+
+
+---
+
+### Central California
+Center/Program Name    | Location(s)      |  Source
+:---------------------:|  --------------- |  --------------- 
+[California Department of Public Health's Laboratory](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx) |  Monterey, San Joaquin, San Luis Obispo, and Tulare  | [California Department of Public Health's Laboratory](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx)
 
 ---
 
 ### Southern California
 Center/Program Name    | Location(s)      |  Source
 :---------------------:|  --------------- |  --------------- 
+[California Department of Public Health's Laboratory](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx) |  Long Beach, Los Angeles, Orange, Riverside, San Bernardino, San Diego, and Ventura County | [California Department of Public Health's Laboratory](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx)
 [Frank Hotchkin Memorial Training Site](https://www.google.com/maps/place/Frank+Hotchkin+Memorial+Training+Center/@34.0693244,-118.2425918,15z/data=!4m5!3m4!1s0x0:0x783aeb588f1cc9d3!8m2!3d34.0693244!4d-118.2425918) | Elysian Park (Los Angeles County) | [CBS Local](https://losangeles.cbslocal.com/2020/03/27/drive-thru-coronavirus-testing-elysian-park/)
 [Kaiser Permanente](https://healthy.kaiserpermanente.org/southern-california/health-wellness/coronavirus-information) | Oceanside Medical Offices, Point Loma Medical Offices, Rancho Bernardo Medical Offices, Rancho San Diego Medical Offices, Signal Hill Medical Offices| [Kaiser Permanente](https://healthy.kaiserpermanente.org/southern-california/health-wellness/coronavirus-information)
 [Dignity Health](https://www.dignityhealth.org/coronavirus-disease-2019) | Multiple locations (check with health care provider for more information) | [The Orange County Register](https://www.ocregister.com/2020/03/19/two-caronavirus-test-centers-open-in-o-c-but-limited-operations-dont-come-close-to-meeting-demand/) 
