@@ -24,6 +24,7 @@ Easy shareable [link](bit.ly/covid_testing_sites) is: bit.ly/covid_testing_sites
 Center/Program Name    | Location(s)      |  Source
 :---------------------:|  --------------- |  --------------- 
 [Project Baseline](https://www.projectbaseline.com/study/covid-19/) | Lake Elsinore (Riverside county),Sacramento (Sacramento county),San Jose (Santa Clara county), San Mateo (San Mateo county) | [Project Baseline](https://www.projectbaseline.com/study/covid-19/)
+[Stanford Medical Center](https://med.stanford.edu/news/all-news/2020/03/stanford-offers-drive-through-coronavirus-test.html) | Hoover Pavilion, Palo Alto | [Stanford Medical Center](https://med.stanford.edu/news/all-news/2020/03/stanford-offers-drive-through-coronavirus-test.html)
 [UCSF](https://www.ucsf.edu/news/2020/03/416901/ucsf-health-statement-coronavirus-test-availability) | San Francisco | [UCSF](https://www.ucsf.edu/news/2020/03/416901/ucsf-health-statement-coronavirus-test-availability)
 [Kaiser Permanente](https://healthy.kaiserpermanente.org/southern-california/health-wellness/coronavirus-information) | Multiple locations (check with health care provider for more information) | [Kaiser Permanente](https://healthy.kaiserpermanente.org/northern-california/health-wellness/coronavirus-information)
 [John Muir Health](https://www.johnmuirhealth.com/patients-and-visitors/coronavirus/get-care.html#test) | Berkeley, Brentwood, Pleasanton and Walnut Creek | [John Muir Health](https://www.sfchronicle.com/health/article/Where-can-I-get-a-coronavirus-test-in-the-Bay-15136054.php)
