@@ -33,6 +33,7 @@ Center/Program Name    | Location(s)      |  Source
 [One Medical](https://www.onemedical.com/blog/live-well/what-you-should-know-about-coronavirus) | Check with health care provider for more information | [One Medical](https://www.onemedical.com/blog/live-well/what-you-should-know-about-coronavirus)
 [Hayward Fire Station 7](https://www.sfchronicle.com/health/article/Where-can-I-get-a-coronavirus-test-in-the-Bay-15136054.php) | 28270 Huntwood Avenue, 510-293-8617 | [SF Chronicle](https://www.sfchronicle.com/health/article/Where-can-I-get-a-coronavirus-test-in-the-Bay-15136054.php)
 [California Department of Public Health's Laboratory](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx) | Richmond, Alameda, Contra Costa, Humboldt, Napa-Solano-Yolo-Marin (located in Solano), Sacramento, San Francisco, San Mateo, Santa Clara, Shasta, and Sonoma | [California Department of Public Health's Laboratory](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx)
+[Fremont Fire Tactical Training Center](https://www.kron4.com/news/bay-area/fremont-to-open-covid-19-drive-thru-testing-site/) | 7200 Stevenson Blvd | [Kron 4](https://www.kron4.com/news/bay-area/fremont-to-open-covid-19-drive-thru-testing-site/)
 
 
 
@@ -58,6 +59,8 @@ Center/Program Name    | Location(s)      |  Source
 [Huntington Hospital](https://www.dailynews.com/2020/03/19/coronavirus-test-sites-grow-in-la-county-but-you-must-be-sick-and-follow-protocol-to-be-tested/) | Check with health care provider for more information | [Daily News](https://www.dailynews.com/2020/03/19/coronavirus-test-sites-grow-in-la-county-but-you-must-be-sick-and-follow-protocol-to-be-tested/)
 [Beverly Hospital](https://www.dailynews.com/2020/03/19/coronavirus-test-sites-grow-in-la-county-but-you-must-be-sick-and-follow-protocol-to-be-tested/) | Check with health care provider for more information| [Daily News](https://www.dailynews.com/2020/03/19/coronavirus-test-sites-grow-in-la-county-but-you-must-be-sick-and-follow-protocol-to-be-tested/)
 [Carbon Health](https://carbonhealth.com/coronavirus/covid-19-testing-centers) | Echo Park (Los Angeles), Pasadena (Los Angeles), Santa Barabara (Los Angeles), Ventura (Los Angeles), Oxnard (Los Angeles), Westlake (Los Angeles) (see website for full list of testing centers) | [Carbon Health](https://carbonhealth.com/coronavirus)
+[LA Times](https://www.latimes.com/california/story/2020-04-03/heres-where-you-can-get-tested-for-the-coronavirus-in-los-angeles-county) | Gate 17 of the Pomona Fairplex; the South Bay Galleria, 1815 Hawthorne Blvd. in Redondo Beach; Antelope Valley Mall, 1233 Rancho Vista Blvd. in Palmdale | [LA Times](https://www.latimes.com/california/story/2020-04-03/heres-where-you-can-get-tested-for-the-coronavirus-in-los-angeles-county)
+
 
 
 ---
